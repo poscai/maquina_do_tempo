@@ -40,8 +40,6 @@ Quer ajudar a melhorar esse projeto? Sinta-se à vontade para abrir um pull requ
 
 **#máquinaDoTempo #retro #webdev #JavaScript #CSS #HTML**
 
-**[Adicione aqui um GIF animado ou uma imagem divertida relacionada ao tema]**
-
 **[Link para o seu perfil no GitHub]**
 
 **[Link para o repositório do projeto]**
