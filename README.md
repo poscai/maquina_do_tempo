@@ -8,7 +8,7 @@ Prepare-se para uma aventura épica através do tempo! Essa aplicação web te l
 
 **Como funciona?**
 
-1. **Digite a década:** Digite sua década favorita no campo de pesquisa e clique em "Pesquisar".
+1. **Digite o ano ou a década:** Digite o ano ou sua década favorita no campo de pesquisa e clique em "Pesquisar".
 2. **Explore a linha do tempo:** A aplicação vai te mostrar os maiores sucessos daquela década, com vídeos, descrições e muito mais.
 3. **Olhos que te seguem:** Os olhos da nossa máquina do tempo te acompanham por toda a página, te deixando ainda mais imerso na experiência.
 4. **Menu intuitivo:** Navegue facilmente entre as diferentes seções do site pelo menu superior.
@@ -40,17 +40,8 @@ Quer ajudar a melhorar esse projeto? Sinta-se à vontade para abrir um pull requ
 
 **#máquinaDoTempo #retro #webdev #JavaScript #CSS #HTML**
 
-**[Link para o seu perfil no GitHub]**
+**[https://github.com/poscai]**
 
-**[Link para o repositório do projeto]**
+**[https://github.com/poscai/maquina_do_tempo]**
 
-**[Adicione mais detalhes sobre o projeto, como desafios enfrentados, soluções criativas, etc.]**
-
-**Dicas:**
-
-* Use uma linguagem clara e objetiva, evitando termos técnicos demais.
-* Use emojis para tornar o README mais divertido e fácil de ler.
-* Adicione imagens e GIFs para ilustrar o projeto.
-* Seja criativo e mostre a sua personalidade!
-
-**Lembre-se:** O README é a primeira impressão que alguém terá do seu projeto. Faça com que ele seja convidativo e interessante!
+**[https://www.linkedin.com/in/marcos-poscai/]**
